@@ -7,26 +7,13 @@ __Hello and welcome__ to our project about the book average ratings prediction o
 
 You can find here the analysis using machine learning techniques, including data cleaning and analysis, feature selection and engineering, model training and testing. In addition to this, we did the web scraping to enrich our dataset. 
 
+We hope you'll enjoy, even if the end is sad. Good books do not always end well by the way!
+
 _______________________________
- ## About us :
+ ## About Goodreads :
+
+[Goodreads](https://www.goodreads.com/) is a social cataloging website that allows individuals to search freely its database of books, annotations, and reviews. Users can sign up and register books to generate library catalogs and reading lists. They can also create their own groups of book suggestions, surveys, polls, blogs, and discussions.
  
-- __Tetiana Shchudla__ : Data Analyst student at DSTI
-
-- __Mohamed Hamiche__ : Data Engeneer student at DSTI
- 
-- __Vincent Lamirault__ : Data Analyst student at DSTI
-
-
-This project was initiated as part of a group project to be graded.  
-
-As time goes by, we encountered issues and had to face challenging problems.
-
-At some point, we decided to try and deal with this project as professionals instead of students.
-
-Learning by doing, and not giving up, aiming best results.
-
-We hope you'll enjoy and rate it well, even if the end is sad. Good books do not always end well by the way !
-
 _______________________________
 
 ## Requirements :
